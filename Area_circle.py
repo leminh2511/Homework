@@ -1,0 +1,5 @@
+x=input("Radius?")
+print("Radius=",x)
+r=int(x)
+a=(r**2)*(3.14)
+print("Area=",a)
